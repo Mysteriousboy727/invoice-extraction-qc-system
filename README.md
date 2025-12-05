@@ -455,7 +455,7 @@ invoice_qc_service/
 
 ## Video Link
 
-[Demo Video - Add your Google Drive link here with "Anyone with Link" sharing enabled]
+https://youtu.be/-vERP-jdCIk
 
 **Video should include:**
 - High-level overview (2-3 min)
