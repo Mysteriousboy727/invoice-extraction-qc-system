@@ -455,13 +455,7 @@ invoice_qc_service/
 
 ## Video Link
 
-https://youtu.be/-vERP-jdCIk
-
-**Video should include:**
-- High-level overview (2-3 min)
-- Code walkthrough: extraction, validation, CLI, API (5-7 min)
-- Setup & demo: environment setup, CLI run, API test, UI demo (5-7 min)
-- Total: 10-20 minutes
+https://youtu.be/zESjMnjp8II
 
 ## How This Could Integrate into a Larger System
 
