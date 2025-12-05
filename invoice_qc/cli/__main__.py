@@ -1,0 +1,9 @@
+"""
+CLI entry point for running as a module.
+"""
+
+from invoice_qc.cli.main import app
+
+if __name__ == "__main__":
+    app()
+

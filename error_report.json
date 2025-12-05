@@ -1,0 +1,26 @@
+{
+  "results": [
+    {
+      "invoice_id": "error-001",
+      "is_valid": false,
+      "errors": [
+        "schema_error: 1 validation error for Invoice\ninvoice_number\n  String should have at least 1 character [type=string_too_short, input_value='', input_type=str]\n    For further information visit https://errors.pydantic.dev/2.10/v/string_too_short"
+      ]
+    },
+    {
+      "invoice_id": "error-002",
+      "is_valid": false,
+      "errors": [
+        "schema_error: 1 validation error for Invoice\ncurrency\n  Value error, Currency must be one of {'USD', 'EUR', 'INR'}, got XYZ [type=value_error, input_value='XYZ', input_type=str]\n    For further information visit https://errors.pydantic.dev/2.10/v/value_error"
+      ]
+    }
+  ],
+  "summary": {
+    "total_invoices": 2,
+    "valid_invoices": 0,
+    "invalid_invoices": 2,
+    "error_counts": {
+      "schema_error": 2
+    }
+  }
+}
